@@ -1,3 +1,12 @@
+# model outputs
+*/outputs/
+
+# Local model
+my_local_model/
+
+# .env
+.env
+
 # cobalt logs
 *.cobaltlog
 *.output

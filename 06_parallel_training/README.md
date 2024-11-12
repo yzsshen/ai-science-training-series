@@ -111,3 +111,38 @@ Where _proof_ can be any of:
 
 
 <!--[^gpu]: If you do not have access to the ALCF systems, you can install [OpenMPI](https://docs.open-mpi.org/en/v5.0.x/) and run across multiple CPUs as well-->
+
+# Homework Submission
+
+I tried to use the HF yelp_reviews_full dataset, but was coming across some issues.
+
+Mid-run screenshot:
+![Terminal during training](midrun.png)
+
+Final Output:
+```
+What is an LLM?
+
+JULIET:
+Here are none, mad?
+
+CLARENCE:
+Ay, he may.
+
+Second Servant:
+Where's Courance?
+
+CAPULET:
+So I shall be so.
+
+Nursend Servant:
+My lord, I say with you, for comfort lord,
+Not she pass'd, and call him so well:
+No will not report in a Fran,
+Be you silk
+```
+
+WandB screenshot:
+![wandb workspace](wandb_ss.png)
+
+WandB report link: https://api.wandb.ai/links/yzs-shen-self/n7l6sqx2
